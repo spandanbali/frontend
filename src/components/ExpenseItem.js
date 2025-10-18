@@ -27,3 +27,5 @@ const ExpenseItem = ({ expense, onDelete, onUpdate }) => {
 };
 
 export default ExpenseItem;
+
+//Expense completed
