@@ -53,3 +53,6 @@ const Login = () => {
 };
 
 export default Login;
+
+// Login page completed
+

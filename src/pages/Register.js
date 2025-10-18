@@ -53,3 +53,6 @@ const Register = () => {
 };
 
 export default Register;
+
+// Registration page completed
+
